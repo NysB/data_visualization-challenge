@@ -7,5 +7,7 @@ In this reposity, you will find:
 - A file called "pymaceuticals_starter" containing the code written for this analysis.
 
 ## Result
-
-
+Following the analysis, I have made the following observations:
+1. dd
+2. dd
+3. dd
